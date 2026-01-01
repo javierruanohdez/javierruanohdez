@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javierruanohdez&label=Profile%20views&color=0e75b6&style=flat" alt="javierruanohdez" /> </p>
+
 <h1 align="center">Hi, I'm Javier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h2>About me</h2>
@@ -56,3 +58,10 @@
 ## Connect with Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tu-linkedin)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:javierruanohdez@gmail.com)
 
+## GitHub Stats
+<p align="center">
+<a href="https://github.com/javierruanohdez">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javierruanohdez&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierruanohdez&layout=compact&langs_count=8&theme=highcontrast"/>
+</a>
+</p>
