@@ -20,11 +20,15 @@
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,pycharm" />
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,md" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,md" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,virtualbox" />
 </p>
 
 <h3>🎓 Academic Exposure</h3>
@@ -50,7 +54,7 @@
 
 ## Featured Project
 
-- 💼 **Employment Across Regions** – Europe-wide analysis of **employment by NACE Rev. 2 sectors**, **gender gaps**, and **economic growth**. The project provides a **comparative regional perspective**, with a **special focus on the Canary Islands**, aiming to understand structural differences, sectoral specialization, and long-term economic trends through data-driven insights.
+- 💼 <a href="https://github.com/javierruanohdez/employment-across-regions" target="_blank" rel="noopener noreferrer">Employment Across Regions</a> – Europe-wide analysis of **employment by NACE Rev. 2 sectors**, **gender gaps**, and **economic growth**. The project provides a **comparative regional perspective**, with a **special focus on the Canary Islands**, aiming to understand structural differences, sectoral specialization, and long-term economic trends through data-driven insights.
 
 
 ---
