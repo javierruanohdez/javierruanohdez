@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,pycharm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,anaconda" />
 </p>
 
 <p align="left">
