@@ -34,7 +34,7 @@
 <h3>🎓 Academic Exposure</h3>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,sqlite,c" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,sqlite,c" />
 </p>
 
 <p align="left">
