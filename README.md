@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-- 🎓 Currently in my **2nd year** of the **Data Science and Engineering** degree at **ULPGC (Universidad de Las Palmas de Gran Canaria)**
+- 🎓 **Second-year** student of **Data Science and Engineering** at **ULPGC (Universidad de Las Palmas de Gran Canaria)**
 - 🎯 Focused on **data engineering, AI, and automation**
 - 🤝 Open to collaborating on projects related to **data analysis and applied statistics**
 - 🚀 Highly interested in **participating in hackathons of any kind**, especially those focused on data, technology, and innovation
