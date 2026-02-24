@@ -69,5 +69,5 @@
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierruanohdez&layout=compact&langs_count=8&theme=ayu-light" />
   </a>
   <br />
-  <img src="metrics.plugin.isocalendar.svg" width="50%" />
+  <img src="metrics.plugin.isocalendar.svg"/>
 </p>
