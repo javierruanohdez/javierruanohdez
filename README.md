@@ -1,6 +1,6 @@
-![Profile Banner](./profile_banner.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierruanohdez&label=Profile%20views&color=0e75b6&style=flat" alt="javierruanohdez" /> </p>
+
+<h1 align="center">Hi, I'm Javier 👋🏻</h1>
 
 <h2>About me</h2>
 
