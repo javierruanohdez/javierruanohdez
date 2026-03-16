@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javierruanohdez&label=Profile%20views&color=0e75b6&style=flat" alt="javierruanohdez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javierruanohdez&label=Profile%20views&color=0A4D99&style=flat&abbreviated=true" alt="javierruanohdez" /> </p>
 
 <h1 align="center">Hi, I'm Javier 👋🏻</h1>
 
