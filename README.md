@@ -16,7 +16,7 @@
 <h3>💻 Used in Projects / Comfortable With</h3>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,java" />
 </p>
 
 <p align="left">
@@ -31,10 +31,15 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,virtualbox" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/UML-1E1E1E?style=for-the-badge&logo=uml&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-0D47A1?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
+
 <h3>🎓 Academic Exposure</h3>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,sqlite,c" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,c,dart" />
 </p>
 
 <p align="left">
@@ -42,12 +47,7 @@
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,plotly" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/UML-1E1E1E?style=for-the-badge&logo=uml&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-0D47A1?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,sklearn" />
 </p>
 
 ---
