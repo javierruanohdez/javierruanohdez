@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,md" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,md" />
 </p>
 
 <p align="left">
