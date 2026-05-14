@@ -68,6 +68,9 @@
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javierruanohdez&show_icons=true&theme=ayu-light&include_all_commits=true&count_private=true" />
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierruanohdez&layout=compact&langs_count=8&theme=ayu-light" />
   </a>
+  </p>
+  <p align="center">
   <br />
   <img src="metrics.plugin.isocalendar.svg"/>
-</p>
+   </p>
+
