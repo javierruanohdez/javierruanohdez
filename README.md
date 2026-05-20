@@ -54,6 +54,9 @@
 
 ## Featured Project
 
+- ✈️ <a href="https://github.com/NoVibesJustCode/sky-delay-forecast" target="_blank" rel="noopener noreferrer">Sky Delay Forecast</a> – A data-driven platform forecasting **Spain's airport congestion** by crossing **real-time flight scraping** with **meteorological insights**. Powered by a **KNN machine learning model**, it delivers an **interactive map with delay predictions** alongside a **dashboard for historical delay analysis**.
+
+
 - 💼 <a href="https://github.com/javierruanohdez/employment-across-regions" target="_blank" rel="noopener noreferrer">Employment Across Regions</a> – Europe-wide analysis of **employment by NACE Rev. 2 sectors**, **gender gaps**, and **economic growth**. The project provides a **comparative regional perspective**, with a **special focus on the Canary Islands**, aiming to understand structural differences, sectoral specialization, and long-term economic trends through data-driven insights.
 
 
