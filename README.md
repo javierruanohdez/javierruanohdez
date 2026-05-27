@@ -16,7 +16,11 @@
 <h3>💻 Used in Projects / Comfortable With</h3>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,java" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,sqlite" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,api" />
 </p>
 
 <p align="left">
@@ -24,26 +28,25 @@
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,md" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bitbucket" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=uml,md,latex" />
 </p>
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,virtualbox" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/UML-1E1E1E?style=for-the-badge&logo=uml&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-0D47A1?style=for-the-badge&logo=latex&logoColor=white" />
-</p>
-
 <h3>🎓 Academic Exposure</h3>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,c,dart" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,php,dart" />
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,php" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,css" />
 </p>
 
 <p align="left">
@@ -59,11 +62,13 @@
 
 - 💼 <a href="https://github.com/javierruanohdez/employment-across-regions" target="_blank" rel="noopener noreferrer">Employment Across Regions</a> – Europe-wide analysis of **employment by NACE Rev. 2 sectors**, **gender gaps**, and **economic growth**. The project provides a **comparative regional perspective**, with a **special focus on the Canary Islands**, aiming to understand structural differences, sectoral specialization, and long-term economic trends through data-driven insights.
 
-
 ---
 
 ## Connect with Me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/javier-ruano-hernández-a752923b2)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:javierruanohdez@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/javier-ruano-hernández-a752923b2"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" /></a>
+  <a href="mailto:javierruanohdez@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## GitHub Stats
 <p align="center">
