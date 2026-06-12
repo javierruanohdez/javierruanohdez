@@ -4,16 +4,16 @@
 
 <h2>About me</h2>
 
-- 🎓 **Second-year** student of **Data Science and Engineering** at **ULPGC (Universidad de Las Palmas de Gran Canaria)**
-- 🎯 Focused on **data engineering, AI, and automation**
-- 🤝 Open to collaborating on projects related to **data analysis and applied statistics**
-- 🚀 Highly interested in **participating in hackathons of any kind**, especially those focused on data, technology, and innovation
+- **Third-year** student of **Data Science and Engineering** at **ULPGC (Universidad de Las Palmas de Gran Canaria)**
+- Focused on **data engineering, AI, and automation**
+- Open to collaborating on projects related to **data analysis and applied statistics**
+- Highly interested in **participating in hackathons of any kind**, especially those focused on data, technology, and innovation
 
 ---
 
 <h2>My Skills Include</h2>
 
-<h3>💻 Used in Projects / Comfortable With</h3>
+<h3> Used in Projects / Comfortable With</h3>
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,sqlite" />
@@ -39,7 +39,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,virtualbox" />
 </p>
 
-<h3>🎓 Academic Exposure</h3>
+<h3> Academic Exposure</h3>
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,php,dart" />
