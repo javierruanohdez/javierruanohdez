@@ -66,7 +66,7 @@
 
 ## Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/javier-ruano-hernández-a752923b2"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/javierruanohdez"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" /></a>
   <a href="mailto:javierruanohdez@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
